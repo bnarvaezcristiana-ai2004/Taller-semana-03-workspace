@@ -1,16 +1,16 @@
 # Taller Semana 03: Computación de Alto Rendimiento (HPC) en el Agro
 
-## 🎯 Objetivo
+## Objetivo
 Aprender a procesar grandes volúmenes de datos agrícolas de forma eficiente. En este taller compararás el rendimiento de Python "puro" frente a la **vectorización con NumPy** y generarás un reporte técnico profesional.
 
-## 📂 Archivos del Taller
+## Archivos del Taller
 - `data_generator.py`: Crea el dataset binario de humedad (`.npy`).
 - `benchmark.py`: Compara tiempos de ejecución (Loop vs. NumPy).
 - `vectorizacion.py`: **Tu área de trabajo** para implementar la lógica.
 - `check_03.py`: Validador automático de tus ejercicios.
 - `reporte/`: Carpeta con la plantilla LaTeX para tu informe.
 
-## 🚀 Guía de Actividades
+## Guía de Actividades
 
 ### 1. Generar la "Finca Digital"
 Crea el archivo de datos que simularemos procesar:
